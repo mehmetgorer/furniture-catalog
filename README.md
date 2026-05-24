@@ -196,6 +196,37 @@ Güçlü şifre ve Supabase hesabında **2FA** önerilir.
 
 ---
 
+
+
+## Ekran Görüntüleri
+
+
+![Ana Sayfa](./screenshots/Screenshot_1.png)
+
+
+![Ana Sayfa Kategoriler](./screenshots/Screenshot_2.png)
+
+
+![Ürünler Sayfası](./screenshots/Screenshot_3.png)
+
+
+![Ürün Listeleme](./screenshots/Screenshot_4.png)
+
+
+![Ürün Detay](./screenshots/Screenshot_5.png)
+
+
+![Yönetim Paneli](./screenshots/Screenshot_6.png)
+
+
+![Kategori Yönetimi](./screenshots/Screenshot_7.png)
+
+
+![Ürün Düzenleme](./screenshots/Screenshot_8.png)
+
+
+![Site Ayarları](./screenshots/Screenshot_9.png)
+
 <a id="english"></a>
 
 # Furniture Catalog (English)
